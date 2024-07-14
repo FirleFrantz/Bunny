@@ -117,5 +117,9 @@
         "GREEN_360": "#123967",
         "RED_400": "#FC0E61"
     },
-    "spec": 2
+    "spec": 2,
+    "plus":{
+        "version":"0",
+        "iconpack":"Deco"
+    }
 }
