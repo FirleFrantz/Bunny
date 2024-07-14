@@ -1,6 +1,6 @@
 {
-	"name": "dracula",
-	"theme_color_map": {
+  "name": "dracula",
+  "theme_color_map": {
 		"KEYBOARD": ["#282a36", "#FFFFFF"],
 		"BACKGROUND_PRIMARY": ["#282a36", "#FFFFFF"],
 		"BACKGROUND_SECONDARY": ["#282a36", "#FFFFFF"],
@@ -25,8 +25,8 @@
 		"TEXT_NORMAL": ["#FFFFFF", "#FFFFFF"],
 		"TEXT_MUTED": ["#D8DEE9", "#FFFFFF"],
 		"TEXT_LINK": ["#6272a4", "#FFFFFF"]
-	},
-	"colours": {
+  },
+  "colours": {
 		"PRIMARY_DARK": "#282a36",
 		"PRIMARY_DARK_100": "#FFFFFF",
 		"PRIMARY_DARK_200": "#FFFFFF",
@@ -39,8 +39,21 @@
 		"PRIMARY_DARK_700": "#282a36",
 		"PRIMARY_DARK_800": "#282a36",
 		"PRIMARY_DARK_900": "#FFFFFF"
-	},
-	"unsafe_colors": {
-		"CHAT_GREY": "#282a36"
-	}
+    },
+    "unsafe_colors": {
+        "CHAT_GREY": "#282a36"
+    },
+    "plus": {
+        "version": 0,
+        "iconpack": "rosiecord-plumpy",
+        "icons": {
+           "StatusStreaming": "#B48EAD",
+           "StatusMobileOnline": "#A3BE8C",
+           "StatusIdle": "#D08770",
+           "StatusDND": "#BF616A",
+           "StatusOffline": "#4C566A",
+           "StatusOnline": "#A3BE8C"
+        }
+    },
+    "spec": 2
 }
