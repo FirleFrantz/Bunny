@@ -4,7 +4,7 @@
     "authors": [
         {
             "name": "@vFirlefrant",
-            "id": "614807913302851500"
+            "id": "614807913302861500"
         }
     ],
     "semanticColors": {
@@ -118,10 +118,10 @@
         "RED_400": "#FC0E61"
     },
     "plus": {
-        "version":"0"
+        "version":"0",
         "iconpack": "Solar (Duotone)"
         }
     },
     "spec": 2
-  }
+    }
 }
