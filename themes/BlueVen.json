@@ -1,10 +1,10 @@
 {
-    "name": "BlueVen",
+    "name": "BlueSven",
     "description": "Another theme with Blue color. :D",
     "authors": [
         {
-            "name": "@vorlie",
-            "id": "614807913302851594"
+            "name": "@vFirlefrant",
+            "id": "614807913302851500"
         }
     ],
     "semanticColors": {
@@ -117,9 +117,10 @@
         "GREEN_360": "#123967",
         "RED_400": "#FC0E61"
     },
-    "spec": 2,
-    "plus":{
+    "plus": {
         "version":"0",
-        "iconpack":"Deco"
+        }
+    },
+    "spec": 2
     }
 }
