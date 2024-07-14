@@ -132,7 +132,7 @@
       "color": "#0A0A0A"
         }
   },
-    "plus": {
+  "plus": {
       "version": 0,
       "iconpack": "rosiecord-plumpy",
       "icons": {
@@ -141,8 +141,8 @@
           "StatusIdle": "#D08770",
           "StatusDND": "#BF616A",
           "StatusOffline": "#4C566A",
-          "StatusOnline": "#A3BE8C"
-        }
+          "StatusOnline": "#A3BE8C"        
+      }
   },
-    "spec": 2
+  "spec": 2
 }
