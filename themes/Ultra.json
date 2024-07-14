@@ -48,11 +48,12 @@
     "plus": {
         "version": 0,
         "iconpack": "Solar (Duotone)"
-        }
+            }
     },
     "spec": 2
     }
     "unsafe_colors": {
         "CHAT_GREY": "#101014"
- }
+       } 
+     }
 }
