@@ -51,8 +51,8 @@
         }
     },
     "spec": 2
-    },
+    }
     "unsafe_colors": {
         "CHAT_GREY": "#101014"
-    }
+ }
 }
