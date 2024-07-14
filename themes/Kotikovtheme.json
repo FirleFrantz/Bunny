@@ -1,138 +1,72 @@
 {
-    "name": "NordOst",
-    "description": "A theme based on Nord color palette, with a few additional shades, tints & tones",
+    "name": "Kotikov",
+    "description": "theme eben",
     "authors": [
         {
-            "name": "@Firlefrantz",
-            "id": "614807913302851545"
+            "name": "@Firlefrantz"
         }
-    ],
-    "semanticColors": {
-      "HEADER_PRIMARY": [
-          "#D8DEE9"
-      ],
-      "HEADER_SECONDARY": [
-          "#D8DEE9"
-      ],
-      "TEXT_NORMAL": [
-          "#ECEFF4"
-      ],
-      "TEXT_MUTED": [
-          "#617991"
-      ],
-      "TEXT_LINK": [
-          "#5E81AC"
-      ],
-      "INTERACTIVE_NORMAL": [
-          "#81A1C1"
-      ],
-      "INTERACTIVE_HOVER": [
-          "#434C5E"
-      ],
-      "INTERACTIVE_ACTIVE": [
-          "#C0D0E0"
-      ],
-      "INTERACTIVE_MUTED": [
-          "#617991" 
-      ],
-      "BACKGROUND_PRIMARY": [
-          "#2E3440"
-      ],
-      "BACKGROUND_SECONDARY": [
-          "#3B4252"
-      ],
-      "BACKGROUND_SECONDARY_ALT": [
-          "#3B4252"
-      ],
-      "BACKGROUND_TERTIARY": [
-          "#2E3440"
-      ],
-      "BACKGROUND_ACCENT": [
-          "#434C5E"
-      ],
-      "BACKGROUND_FLOATING": [
-          "#3B4252"
-      ],
-      "BACKGROUND_MOBILE_PRIMARY": [
-          "#3B4252"
-      ],
-      "BACKGROUND_MOBILE_SECONDARY": [
-          "#3B4252"
-      ],
-      "BACKGROUND_NESTED_FLOATING": [
-          "#3B4252"
-      ],
-     
-      "BACKGROUND_MESSAGE_HOVER": [
-          "#2E3440"
-      ],
-      "BACKGROUND_MODIFIER_HOVER": [
-          "#2E3440"
-      ],
-      "BACKGROUND_MODIFIER_ACTIVE": [
-          "#3B4252"
-      ],
-      "BACKGROUND_MODIFIER_SELECTED": [
-          "#434C5E"
-      ],
-      "BACKGROUND_MODIFIER_ACCENT": [
-          "#3B4252"
-      ],
-      "CHANNELTEXTAREA_BACKGROUND": [
-          "#242424"
-      ],
-      "CHANNELS_DEFAULT": [
-          "#81A1C1"
-      ],
-      "TEXT_DANGER": [
-          "#BF616A"
-      ],
-      "KEYBOARD": [
-          "#2E3440"
-      ],
-      "CHANNEL_ICON": [
-          "#81A1C1"
-      ],
-      "CHAT_BACKGROUND": [
-          "#2E3440"
-      ],
-      "SPOILER_HIDDEN_BACKGROUND": [
-          "#434C5E"
-      ],
-      "SPOILER_REVEALED_BACKGROUND": [
-          "#5B6272"
-      ]
+  ],
+  "semanticColors": {
+      "HEADER_PRIMARY": ["#9472D5"],
+      "HEADER_SECONDARY": ["#9472D5"],
+      "TEXT_NORMAL": ["#F3E8FF"],
+      "TEXT_MUTED": ["#5E5E5E"],
+      "TEXT_LINK": ["#C48EEE"],
+      "INTERACTIVE_NORMAL": ["#B599C5"],
+      "INTERACTIVE_HOVER": ["#B988BC"],
+      "INTERACTIVE_ACTIVE": ["#E1C5FD"],
+      "INTERACTIVE_MUTED": ["#5F5160"],
+      "BACKGROUND_PRIMARY": ["#0A0A0A"],
+      "BACKGROUND_SECONDARY": ["#222222"],
+      "BACKGROUND_SECONDARY_ALT": ["#222222"],
+      "BACKGROUND_TERTIARY": ["#0A0A0A"],
+      "BACKGROUND_ACCENT": ["#634A70"],
+      "BACKGROUND_FLOATING": ["#222222"],
+      "BACKGROUND_MOBILE_PRIMARY": ["#222222"],
+      "BACKGROUND_MOBILE_SECONDARY": ["#222222"],
+      "BACKGROUND_NESTED_FLOATING": ["#0A0A0A"],
+
+      "BACKGROUND_MESSAGE_HOVER": ["#0A0A0A"],
+      "BACKGROUND_MODIFIER_HOVER": ["#0A0A0A"],
+      "BACKGROUND_MODIFIER_ACTIVE": ["#67427D"],
+      "BACKGROUND_MODIFIER_SELECTED": ["#67427D"],
+      "BACKGROUND_MODIFIER_ACCENT": ["#484848"],
+      "SCROLLBAR_THIN_THUMB": ["#26273b"],
+      "SCROLLBAR_THIN_TRACK": ["transparent"],
+      "SCROLLBAR_AUTO_THUMB": ["#CAB3DA"],
+      "SCROLLBAR_AUTO_TRACK": ["#CAB3DA"],
+      "CHANNELTEXTAREA_BACKGROUND": ["#242424"],
+      "CHANNELS_DEFAULT": ["#90769E"],
+      "TEXT_DANGER": ["#FC0E61"],
+      "KEYBOARD": ["#0A0A0A"],
+      "CHANNEL_ICON": ["#BEB3C6"],
+      "CHAT_BACKGROUND": ["#0A0A0A"],
+      "SPOILER_HIDDEN_BACKGROUND": ["#4B4B4B"],
+      "SPOILER_REVEALED_BACKGROUND": ["#5E5E5E"]
   },
   "rawColors": {
-      "PRIMARY_100": "#D8DEE9",
-      "PRIMARY_200": "#4C566A",
-      "PRIMARY_300": "#7390AD",
-      "PRIMARY_360": "#81A1C1",
-      "PRIMARY_400": "#617991",
-      "PRIMARY_500": "#476181",
-      "PRIMARY_600": "#2E3440",
-      "PRIMARY_630": "#434C5E",
-      "PRIMARY_660": "#434C5E",
-      "PRIMARY_700": "#2E3440",
-      "PRIMARY_800": "#2E3440",
-  
-      "BRAND_260": "#8199B1",
-      "BRAND_360": "#5E81AC",
-      "BRAND_500": "#434C5E",
-      "BRAND_560": "#4C566A",
-      "WHITE_500": "#D8DEE9",
-      "YELLOW_300": "#4C566A",
-      "GREEN_360": "#4C566A",
-      "RED_400": "#BF616A"
+      "PRIMARY_100": "#F2D8FD",
+      "PRIMARY_200": "#947592",
+      "PRIMARY_300": "#9472D5",
+      "PRIMARY_360": "#C272F0",
+      "PRIMARY_400": "#7114EE",
+      "PRIMARY_500": "#5F3A70",
+      "PRIMARY_600": "#0A0A0A",
+      "PRIMARY_630": "#2F2F2F",
+      "PRIMARY_660": "#2F2F2F",
+      "PRIMARY_700": "#0A0A0A",
+      "PRIMARY_800": "#0A0A0A",
+
+      "BRAND_260": "#866195",
+      "BRAND_360": "#BF96D0",
+      "BRAND_500": "#866195",
+      "BRAND_560": "#BF96D0",
+      "WHITE_500": "#E7C4FF",
+      "YELLOW_300": "#B569E0",
+      "GREEN_360": "#B569E0",
+      "RED_400": "#FC0E61"
   },
-  "background": {
-      "blur": 0,
-      "url": "https://raw.githubusercontent.com/kotru21/Vendetta-discord-theme/main/theme_BG/background.jpg",
-      "alpha": 0.9,
-      "color": "#0A0A0A"
-        }
-  },
-   "plus": {
+    "plus": {
         "version": 0,
         "iconpack": "rosiecord-plumpy",
         "icons": {
@@ -142,6 +76,7 @@
            "StatusDND": "#BF616A",
            "StatusOffline": "#4C566A",
            "StatusOnline": "#A3BE8C"
+        }
     },
     "spec": 2
 }
