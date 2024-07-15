@@ -96,6 +96,13 @@
     "BACKGROUND_MODIFIER_ACCENT": [
       "#1e2529",
       "#FFFFFF"
+    "CARD_PRIMARY_BG": [
+      "#1e2529",
+      "#FFFFFF"
+    ],
+    "CARD_SECONDARY_BG": [
+      "#1e2529",
+      "#FFFFFF"
     ],
     "SCROLLBAR_THIN_THUMB": [
       "transparent",
