@@ -99,7 +99,7 @@
     ],
     "SCROLLBAR_THIN_THUMB": [
       "transparent",
-      "transparent",
+      "transparent"
     ],
     "SCROLLBAR_THIN_TRACK": [
       "transparent",
@@ -107,11 +107,11 @@
     ],
     "SCROLLBAR_AUTO_THUMB": [
       "transparent",
-      "transparent",
+      "transparent"
     ],
     "SCROLLBAR_AUTO_TRACK": [
       "transparent",
-      "transparent",
+      "transparent"
     ],
     "CHANNELTEXTAREA_BACKGROUND": [
       "transparent",
