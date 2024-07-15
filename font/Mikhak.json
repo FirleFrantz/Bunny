@@ -1,0 +1,14 @@
+{
+    "spec": 1,
+    "name": "Mikhak",
+    "previewText": "meow :3",
+    "main": {
+        "ggsans-Bold": "https://raw.githubusercontent.com/dora727/doraa-pyoncordstuff/master/Fonts/mikhakfont/ttf/ggsans-700-bold.ttf",
+        "ggsans-BoldItalic": "https://github.com/dora727/doraa-pyoncordstuff/raw/master/Fonts/mikhakfont/ttf/ggsans-700-bolditalic.ttf",
+        "ggsans-ExtraBold": "https://github.com/dora727/doraa-pyoncordstuff/raw/master/Fonts/mikhakfont/ttf/ggsans-800-extrabold.ttf",
+        "ggsans-Medium": "https://github.com/dora727/doraa-pyoncordstuff/raw/master/Fonts/mikhakfont/ttf/ggsans-500-medium.ttf",
+        "ggsans-Normal": "https://github.com/dora727/doraa-pyoncordstuff/raw/master/Fonts/mikhakfont/ttf/ggsans-400-normal.ttf",
+        "ggsans-NormalItalic": "https://github.com/dora727/doraa-pyoncordstuff/raw/master/Fonts/mikhakfont/ttf/ggsans-400-normalitalic.ttf",
+        "ggsans-Semibold": "https://github.com/dora727/doraa-pyoncordstuff/raw/master/Fonts/mikhakfont/ttf/ggsans-600-semibold.ttf"
+    }
+}
